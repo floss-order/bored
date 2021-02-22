@@ -5,3 +5,8 @@ export function appendTo(domElement, child) {
 export function createDOMElement(domElement) {
     return document.createElement(domElement)
 }
+
+export function addClass(domElement, className) {
+    domElement.classList.add(className)
+    return domElement
+}
