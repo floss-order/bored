@@ -10,3 +10,8 @@ export function addClass(domElement, className) {
     domElement.classList.add(className)
     return domElement
 }
+
+export function setText(domElement, text) {
+    domElement.textContent = text
+    return domElement
+}
