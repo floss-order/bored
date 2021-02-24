@@ -7,3 +7,22 @@
 body {
     font-family: 'Commissioner', sans-serif;
 }
+
+.activity {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.activity__text {
+    font-weight: 600;
+    font-size: 8rem;
+    text-align: center;
+}
+
+.activity__type {
+    font-weight: 300;
+    font-size: 2rem;
+}
