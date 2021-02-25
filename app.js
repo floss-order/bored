@@ -7,4 +7,5 @@ import showActivity from './assets/scripts/activity.js'
           showActivity()
         }
     })
+    document.addEventListener('click', showActivity)
 })()
