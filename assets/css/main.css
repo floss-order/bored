@@ -34,8 +34,9 @@ body {
 .tip {
     position: absolute;
     left: 50%;
-    bottom: 50px;
+    bottom: 2%;
     transform: translate(-50%);
     font-weight: 200;
     font-size: clamp(1.25rem, 5vw, 2.25rem);
+    text-align: center;
 }
