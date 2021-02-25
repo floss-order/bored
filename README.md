@@ -11,7 +11,7 @@ The user can watch the activities and add them to his/her bookmarks. Bookmarking
 
 [ ] Text animation
 
-[ ] Responsive layout
+[x] Responsive layout
 
 [ ] User profile
 
